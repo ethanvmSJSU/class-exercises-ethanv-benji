@@ -1,0 +1,60 @@
+/*
+CSS RESETS
+*/
+
+
+/* Change box-sizing default to border-box */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: white;
+  border-bottom: 10px solid #000000;
+  text-align: center;
+  
+  
+}
+
+/* Remove default spacing */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Respect user font settings */
+html {
+  font-size: 2rem;
+
+
+}
+
+
+
+
+/* ~~~~~~~~~~~ main css ~~~~~~~~~~
+~~~~~~~~~~(add yours below) ~~~~~~~~~~~ */
+
+body {
+    font-size: 1em;
+    line-height: 1.5;
+    font-family: comic-sans, cursive, sans-serif;
+}
+
+
+/* style the header 
+- give it some padding, maybe a background + text color */
+
+
+/* style the div classes  
+- change the background and the font color 
+- can you give them a max-width and center them? 
+- how about some margin and padding?  */
+
+
+
+/* Make images responsive 
+- do a google search if you don't remember how =) */
