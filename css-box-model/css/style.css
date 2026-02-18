@@ -14,9 +14,21 @@ header {
   background-color: white;
   border-bottom: 10px solid #000000;
   text-align: center;
-  
-  
+  background-image: url("https://thumbs.dreamstime.com/b/various-sports-equipment-balls-depicted-floating-against-green-background-various-sports-equipment-balls-392488576.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 3rem;
+  font-size: 2.5rem;
+  text-decoration: underline; border: #000000 5px solid;
 }
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem 0;
+}
+
 
 /* Remove default spacing */
 * {
